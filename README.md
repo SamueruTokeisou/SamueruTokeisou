@@ -1,163 +1,83 @@
-# My Personal Blog
+# 我的个人博客 | My Personal Blog
+
+欢迎来到我的个人博客！这是一个使用Jekyll创建的简单静态博客网站，托管在GitHub Pages上。在这里，我分享了我的翻译、摄影和视频创作之旅。
 
 Welcome to my personal blog! This is a simple static blog site created using Jekyll and hosted on GitHub Pages. Here, I share my journey in translation, photography, and video creation.
 
-## Table of Contents
+## 目录 | Table of Contents
 
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Deployment](#deployment)
-- [License](#license)
+- [简介 | Introduction](#简介--introduction)
+- [安装 | Installation](#安装--installation)
+- [使用 | Usage](#使用--usage)
+- [定制 | Customization](#定制--customization)
+- [部署 | Deployment](#部署--deployment)
+- [许可证 | License](#许可证--license)
 
-## Introduction
+## 简介 | Introduction
+
+这是一个个人博客网站，我在这里发布关于我的工作和兴趣的文章。它使用Jekyll，一个静态网站生成器，将Markdown文件转换为静态网站。
 
 This project is a personal blog site where I post articles about my work and interests. It uses Jekyll, a static site generator, to convert Markdown files into a static website.
 
-## Installation
+## 安装 | Installation
+
+按照以下步骤开始使用此项目：
 
 To get started with this project, follow these steps:
 
-1. **Install Jekyll and Bundler**:
+1. **安装Jekyll和Bundler | Install Jekyll and Bundler**:
 
     ```sh
     gem install jekyll bundler
     ```
 
-2. **Clone this repository**:
+2. **克隆此仓库 | Clone this repository**:
 
     ```sh
     git clone https://github.com/yourusername/myblog.git
     cd myblog
     ```
 
-3. **Install dependencies**:
+3. **安装依赖 | Install dependencies**:
 
     ```sh
     bundle install
     ```
 
-## Usage
+## 使用 | Usage
+
+本地运行博客：
 
 To run the blog locally:
 
-1. **Serve the site**:
+1. **启动站点 | Serve the site**:
 
     ```sh
     bundle exec jekyll serve
     ```
 
-2. Open your browser and go to `http://localhost:4000`.
+2. 打开浏览器并访问`http://localhost:4000`。
 
-## Customization
+    Open your browser and go to `http://localhost:4000`.
+
+## 定制 | Customization
+
+你可以通过编辑`_config.yml`文件来定制你的博客。根据需要更改站点标题、描述、URL等设置。
 
 You can customize your blog by editing the `_config.yml` file. Change the site title, description, URL, and other settings as needed.
+
+添加新文章，请在`_posts`目录中创建一个Markdown文件。文件名应遵循`YYYY-MM-DD-title.md`格式。例如：
 
 To add a new post, create a Markdown file in the `_posts` directory. The file name should follow the format `YYYY-MM-DD-title.md`. Here is an example:
 
 ```markdown
 ---
 layout: post
-title: "Welcome to My Blog"
+title: "欢迎来到我的博客 | Welcome to My Blog"
 date: 2024-06-17
 categories: introduction
 ---
 
-Welcome to my personal blog! Here, I will share my journey in translation, photography, and video creation.
-
-Deployment
-To deploy your blog to GitHub Pages:
-
-Create a new repository on GitHub.
-
-Push the local repository to GitHub:
-
-sh
-复制代码
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/yourusername/myblog.git
-git push -u origin master
-Configure GitHub Pages:
-
-Go to the repository settings on GitHub.
-Scroll down to the "GitHub Pages" section.
-Select the master branch as the source.
-Your blog should be available at https://yourusername.github.io/myblog after a few minutes.
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-shell
-复制代码
-
-### 文件和目录结构
-
-在你的项目目录中，应该有以下基本文件和目录：
-
-myblog/
-├── _config.yml
-├── _posts/
-│ └── 2024-06-17-welcome-to-my-blog.md
-├── _layouts/
-├── _includes/
-├── _site/
-├── Gemfile
-├── Gemfile.lock
-└── README.md
-
-yaml
-复制代码
-
-### `_config.yml`
-
-以下是一个基本的`_config.yml`文件示例：
-
-```yaml
-title: My Personal Blog
-description: A blog about translation, photography, and video creation.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourusername.github.io" # the base hostname & protocol for your site
-twitter_username: your_twitter_username
-github_username: your_github_username
-theme: minima
-示例文章
-在_posts目录中创建一个示例文章2024-06-17-welcome-to-my-blog.md：
-
-markdown
-复制代码
----
-layout: post
-title: "Welcome to My Blog"
-date: 2024-06-17
-categories: introduction
----
+欢迎来到我的个人博客！在这里，我将分享我的翻译、摄影和视频创作之旅。
 
 Welcome to my personal blog! Here, I will share my journey in translation, photography, and video creation.
-完整的步骤总结
-在GitHub上创建一个新仓库，如myblog。
-克隆仓库到本地：
-sh
-复制代码
-git clone https://github.com/yourusername/myblog.git
-cd myblog
-创建上述的文件和目录结构。
-安装Jekyll和Bundler：
-sh
-复制代码
-gem install jekyll bundler
-安装依赖：
-sh
-复制代码
-bundle install
-初始化Jekyll项目（确保在myblog目录中）：
-sh
-复制代码
-jekyll new . --force
-将更改提交到GitHub：
-sh
-复制代码
-git add .
-git commit -m "Set up Jekyll blog"
-git push origin master
