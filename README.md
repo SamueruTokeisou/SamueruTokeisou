@@ -81,3 +81,158 @@ categories: introduction
 欢迎来到我的个人博客！在这里，我将分享我的翻译、摄影和视频创作之旅。
 
 Welcome to my personal blog! Here, I will share my journey in translation, photography, and video creation.
+
+
+部署 | Deployment
+将博客部署到GitHub Pages：
+
+To deploy your blog to GitHub Pages:
+
+在GitHub上创建一个新的仓库 | Create a new repository on GitHub。
+
+将本地仓库推送到GitHub | Push the local repository to GitHub:
+
+sh
+复制代码
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/yourusername/myblog.git
+git push -u origin master
+配置GitHub Pages | Configure GitHub Pages:
+
+转到GitHub上的仓库设置。
+
+滚动到"GitHub Pages"部分。
+
+选择master分支作为源。
+
+几分钟后，你的博客应该会在https://yourusername.github.io/myblog上线。
+
+Go to the repository settings on GitHub.
+
+Scroll down to the "GitHub Pages" section.
+
+Select the master branch as the source.
+
+Your blog should be available at https://yourusername.github.io/myblog after a few minutes.
+
+许可证 | License
+此项目是MIT许可证的授权下获得的。详情请参阅LICENSE文件。
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+shell
+复制代码
+
+### 项目结构和配置
+
+确保你的项目目录结构如下：
+
+myblog/
+├── _config.yml
+├── _posts/
+│ └── 2024-06-17-welcome-to-my-blog.md
+├── _layouts/
+├── _includes/
+├── _site/
+├── Gemfile
+├── Gemfile.lock
+└── README.md
+
+yaml
+复制代码
+
+### `_config.yml`
+
+一个基本的`_config.yml`文件示例如下：
+
+```yaml
+title: My Personal Blog
+description: A blog about translation, photography, and video creation.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourusername.github.io" # the base hostname & protocol for your site
+twitter_username: your_twitter_username
+github_username: your_github_username
+theme: minima
+文章示例
+在_posts目录中创建一个示例文章2024-06-17-welcome-to-my-blog.md：
+
+markdown
+复制代码
+---
+layout: post
+title: "欢迎来到我的博客 | Welcome to My Blog"
+date: 2024-06-17
+categories: introduction
+---
+
+欢迎来到我的个人博客！在这里，我将分享我的翻译、摄影和视频创作之旅。
+
+Welcome to my personal blog! Here, I will share my journey in translation, photography, and video creation.
+添加语言切换按钮
+为了在你的博客中添加语言切换按钮，你需要修改布局文件并添加一些JavaScript。
+
+修改布局文件：
+
+在_layouts目录中，找到default.html文件并添加语言切换按钮。以下是一个示例：
+
+html
+复制代码
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="{{ site.baseurl }}/">Home</a></li>
+        <li><a href="{{ site.baseurl }}/about/">About</a></li>
+        <!-- Language switch buttons -->
+        <li><a href="#" id="lang-en">English</a></li>
+        <li><a href="#" id="lang-zh">中文</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <p>© 2024 My Personal Blog</p>
+  </footer>
+  <script>
+    document.getElementById('lang-en').addEventListener('click', function() {
+      document.documentElement.lang = 'en';
+    });
+    document.getElementById('lang-zh').addEventListener('click', function() {
+      document.documentElement.lang = 'zh';
+    });
+  </script>
+</body>
+</html>
+添加样式：
+
+确保你有一个样式表文件（如main.css）以便进行基本的样式调整。
+
+创建双语内容：
+
+在创建文章时，确保包含中英文内容。例如：
+
+markdown
+复制代码
+---
+layout: post
+title: "欢迎来到我的博客 | Welcome to My Blog"
+date: 2024-06-17
+categories: introduction
+---
+
+欢迎来到我的个人博客！在这里，我将分享我的翻译、摄影和视频创作之旅。
+
+Welcome to my personal blog! Here, I will share my journey in translation, photography, and video creation.
+这样，你的博客将支持中英文双语内容，并提供语言切换按钮。你可以根据需要进一步定制和美化博客。
