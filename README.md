@@ -13,6 +13,27 @@ Welcome to my personal blog! This is a simple static blog site created using Jek
 - [部署 | Deployment](#部署--deployment)
 - [许可证 | License](#许可证--license)
 
+- Typing SVG
+开源字体一览（表格版）
+开源字体一览（图文版）
+
+Readme Card
+
+个人博客 / Blog 试行 / Beta
+永硕Ｅ盘 / YsEpan
+外字初步整理一览表
+CJK 字体 Magisk 模块模板
+打赏 / Donate
+
+关注方式 / Follow
+Telegram Telegram 频道 Facebook
+微信公众号 微博 哔哩哔哩
+酷安 即刻 少数派
+小红书 站酷
+
+电子邮箱 / E-Mail
+  
+
 ## 简介 | Introduction
 
 这是一个个人博客网站，我在这里发布关于我的工作和兴趣的文章。它使用Jekyll，一个静态网站生成器，将Markdown文件转换为静态网站。
