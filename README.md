@@ -133,6 +133,6 @@
 
 <!-- BiliBili和CSDN数据 -->
 <div align="center">
-  <a href="https://space.bilibili.com/372204786"><img src="https://stats.justsong.cn/api/bilibili/?id=372204786"/></a>
-  <a href="https://blog.csdn.net/CZW2268025923?spm=1001.2014.3001.5343"><img src="https://stats.justsong.cn/api/csdn?id=CZW2268025923?spm=1001.2014.3001.5343"/></a>
+  <a href="https://space.bilibili.com/13596955"><img src="https://stats.justsong.cn/api/bilibili/?id=13596955"/></a>
+  <a href="https://blog.csdn.net"><img src="https://stats.justsong.cn/api/csdn?id="/></a>
 </div>
