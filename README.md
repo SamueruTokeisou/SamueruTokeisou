@@ -98,19 +98,6 @@
 </td>
 <td valign="top">
 
-### 🤾‍♂️ <a href="https://www.douban.com/people/252613592" target="_blank">Funny Soul</a>
-
-<!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/35691909/' target='_blank'>想看鬼灭之刃 浅草篇</a> - 2022-03-02
-* <a href='https://book.douban.com/subject/2567698/' target='_blank'>读过三体</a> - 2022-01-09
-<!-- END_SECTION:douban -->
-
-</tr>
-</table>
-
-<!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=samuerutokeisou&theme=xcode" /></div>
-
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
 <!-- plugin metrics -->
@@ -121,8 +108,7 @@
 
 # 🤝 Social
 
-<!-- BiliBili和CSDN数据 -->
+<!-- BiliBili -->
 <div align="center">
   <a href="https://space.bilibili.com/13596955"><img src="https://stats.justsong.cn/api/bilibili/?id=13596955"/></a>
-  <a href="https://blog.csdn.net"><img src="https://stats.justsong.cn/api/csdn?id="/></a>
 </div>
