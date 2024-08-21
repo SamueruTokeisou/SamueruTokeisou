@@ -29,8 +29,17 @@
 欢迎来到我的主页 😝！我是 **Samueru Tokeisou**，一名热情活跃的前端开发者，来自中国 🌍。目前，我正在致力于 **AI Teacher** 项目，并且学习 Blender 和 Python 🖥️。
 
 我对翻译、摄影和视频创作充满热情 📸，并乐于在代码的世界中探索 🧑‍💻。你可以问我关于 HTML、CSS、JavaScript、C++ 和 Python 的问题 💬。
+🧠 计划学习:
 
-⚡ **有趣的事实**：我超爱吃披萨 🍕！
+&emsp;&emsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-2E67D3.svg?style=style=flat-square&logo=rust&logoColor=white)
+
 
 ## 🚀 Action
 
