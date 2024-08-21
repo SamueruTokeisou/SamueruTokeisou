@@ -8,17 +8,17 @@ I am currently working on AI Teacher and learning Blender and Python. My work in
 
 - 🔭 **Current Project:** AI Teacher
 - 🌱 **Learning:** Blender, Python
-- 👨‍💻 **All of my projects:** [zigao.wang](https://zigao.wang)
-- 📝 **Articles and updates:** [zigao.cc](https://zigao.cc)
+- 👨‍💻 **All of my projects:** [samueru](https://zigao.wang)
+- 📝 **Articles and updates:** [samueru](https://zigao.cc)
 - 💬 **Ask me about:** HTML, CSS, JavaScript, C++, Python
-- 📫 **Reach me at:** [a@zigao.wang](mailto:a@zigao.wang)
+- 📫 **Reach me at:** [samuerutokeisou.gmail.com](mailto:samuerutokeisou.gmail.com)
 - ⚡ **Fun Fact:** I love pizzas!
 
 ## Connect with Me
 
-- [GitHub](https://github.com/zigaowang)
-- [Telegram](https://t.me/zigaow)
-- [WeChat](https://weixin.qq.com/r/ZIGAO)
+- [GitHub](https://github.com/SamueruTokeisou)
+- [Telegram](https://t.me/samuerutokeisou)
+- [X](https://x.com/SamueruTokeisou)
 
 ## Languages and Tools
 
