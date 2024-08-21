@@ -14,12 +14,6 @@
   <a href="mailto:samuerutokeisou@gmail.com"><img src="https://img.shields.io/badge/Email-%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6-c32136"></a>&emsp;
 </div>
 
-<!-- 访客数统计徽标 -->
-<div align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=samuerutokeisou" /></div>
-
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
-
 # 🙋 Hello
 
 欢迎来到我的主页 😝！我是 **Samueru Tokeisou**，一名热情活跃的前端开发者，来自中国 🌍。目前，我正在致力于 **AI Teacher** 项目，并且学习 Blender 和 Python 🖥️。
