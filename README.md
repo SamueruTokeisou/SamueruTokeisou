@@ -1,12 +1,12 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://fatalis0125.serv00.net/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=生活明朗，万物可爱.;console.log(%22Hello%EF%BC%8Cworld%22)">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=慎终如始，则无败事.;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
 
 <!-- 敲代码的图片 -->
-<div align="center"><img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
+<div align="center"><img order-radius="100px" src="[https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif](https://pic.imgdb.cn/item/66bac634d9c307b7e940368d.gif)"/></div>
 <br>
 
 <!-- 个人资料徽标 -->
