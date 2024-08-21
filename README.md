@@ -29,6 +29,7 @@
 欢迎来到我的主页 😝！我是 **Samueru Tokeisou**，一名热情活跃的前端开发者，来自中国 🌍。目前，我正在致力于 **AI Teacher** 项目，并且学习 Blender 和 Python 🖥️。
 
 我对翻译、摄影和视频创作充满热情 📸，并乐于在代码的世界中探索 🧑‍💻。你可以问我关于 HTML、CSS、JavaScript、C++ 和 Python 的问题 💬。
+
 💪 正在学习:
 
 &emsp;&emsp;
