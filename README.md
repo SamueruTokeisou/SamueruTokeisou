@@ -5,10 +5,6 @@
   </a>
 </h1>
 
-<!-- 敲代码的图片 -->
-<div align="center"><img order-radius="100px" src="[https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif](https://pic.imgdb.cn/item/66bac634d9c307b7e940368d.gif)"/></div>
-<br>
-
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://fatalis0125.serv00.net/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
