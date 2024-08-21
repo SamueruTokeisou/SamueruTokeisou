@@ -89,22 +89,6 @@
 <tr>
 <td valign="top">
 
-### 🤹‍♀️ <a href="https://fatalis0125.serv00.net/" target="_blank">Recent Blog</a>
-
-<!-- START_SECTION:blog -->
-
-<!-- END_SECTION:blog -->
-
-</td>
-<td valign="top">
-
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-
-<!-- plugin metrics -->
-<div align="center">
-  <img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c@main/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/rocket-banner.jpg"/>
-</div>
 
 # 🤝 Social
 
