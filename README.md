@@ -7,7 +7,7 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://www.samueru.nyc.mn"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
+  <a href="https://www.286163668.xyz"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
   <a href="https://x.com/SamueruTokeisou"><img src="https://img.shields.io/badge/X-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
   <a href="https://t.me/samuerutokeisou"><img src="https://img.shields.io/badge/Telegram-%E7%94%B5%E6%8A%A5-blue"></a>&emsp;
   <a href="https://github.com/SamueruTokeisou"><img src="https://img.shields.io/badge/github-%E5%89%8D%E7%AB%AF-c32136"></a>&emsp;
