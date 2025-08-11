@@ -1,64 +1,53 @@
-<!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://www.samueru.nyc.mn" target="_blank" rel="noopener">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=慎终如始，则无败事.;console.log(%22Hello%EF%BC%8Cworld%22)" alt="动态打字效果" />
+  <a href="https://www.samueru.nyc.mn" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&width=600&lines=%E6%85%8E%E7%BB%88%E5%A6%82%E5%A7%8B%EF%BC%8C%E5%88%99%E6%97%A0%E6%95%97%E4%BA%8B%E3%80%82;console.log('Hello,%20world')" alt="typing effect" />
   </a>
 </h1>
 
-<!-- 个人资料徽标 -->
-<div align="center" style="margin: 24px 0 36px 0;">
-  <a href="https://www.286163668.xyz" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-博客-blue?style=for-the-badge&logo=apple" alt="个人博客" />
+<p align="center">
+  <a href="https://www.286163668.xyz" target="_blank" rel="noopener noreferrer">
+    <img alt="blog" src="https://img.shields.io/badge/blog-个人博客-36BCF7?style=for-the-badge&logo=apple" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/SamueruTokeisou" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/X-推特-1DA1F2?style=for-the-badge&logo=twitter" alt="X 推特" />
+  <a href="https://x.com/SamueruTokeisou" target="_blank" rel="noopener noreferrer">
+    <img alt="X" src="https://img.shields.io/badge/X-推特-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/samuerutokeisou" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Telegram-电报-0088CC?style=for-the-badge&logo=telegram" alt="Telegram" />
+  <a href="https://t.me/samuerutokeisou" target="_blank" rel="noopener noreferrer">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-电报-0088CC?style=for-the-badge&logo=telegram" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/SamueruTokeisou" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/GitHub-前端-c32136?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://github.com/SamueruTokeisou" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-前端-c32136?style=for-the-badge&logo=github" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:samuerutokeisou@outlook.com" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Email-电子邮件-c32136?style=for-the-badge&logo=microsoft-outlook" alt="Email" />
+  <a href="mailto:samuerutokeisou@outlook.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Email" src="https://img.shields.io/badge/Email-电子邮件-c32136?style=for-the-badge&logo=microsoft-outlook" />
   </a>
-</div>
+</p>
 
 ---
 
-## 关于我
-
-> 🔭 摄影师 & 市场专员，数据与创意交汇，镜头与代码并存。  
-> 🌱 热衷于自动化和数字转型，拥抱未知与极致效率。  
-> 💬 欢迎交流合作，创新共赢。
+<p align="center" style="max-width:600px; font-weight: 300; font-size: 1.15rem; color: #888;">
+  摄影师 & 市场专员 | 热衷自动化与效率提升 | 喜欢用代码和镜头讲故事  
+</p>
 
 ---
 
-## 我的技能
+### 技能集
 
-| 前端开发                 | 设计创意                      | 自动化运维                     |
-|--------------------------|-------------------------------|-------------------------------|
-| HTML / CSS / JavaScript  | 摄影后期（Lightroom / Photoshop）| Linux 服务器管理 & 脚本编写     |
-| Vue / React              | PPT 制作                      | Docker / 1Panel / FRP 配置     |
-| Markdown / 文档编写      | 视觉策划 & 市场活动           | 持续集成与自动化部署           |
-
----
-
-## 重点项目
-
-- [个人博客](https://www.samueru.nyc.mn)  
-  采用 WordPress + Elementor 打造，兼顾技术分享与视觉艺术。  
-- [Wiki 知识管理](https://wiki.286163668.xyz)  
-  Wiki.js + AI，知识整理与检索的极致体验。  
-- 自动化工具集合  
-  脚本、监控、定时任务，解放双手提升效率。
+| Frontend          | Creative                  | Automation & Ops             |
+| ----------------- | -------------------------| ----------------------------|
+| HTML / CSS / JS   | Lightroom / Photoshop     | Linux & Shell Scripting     |
+| Vue / React       | PPT / 视觉策划           | Docker / 1Panel / FRP       |
+| Markdown / 文档   | 市场活动策划             | CI / 自动部署                |
 
 ---
 
-<footer align="center" style="margin-top: 36px; font-size: 0.9rem; color: #666;">
-  © 2025 <strong>Tokeisou Samueru</strong> · 慎终如始，无败事
+### 主要项目
+
+- [个人博客](https://www.samueru.nyc.mn) — WordPress + Elementor，技术与艺术的结合  
+- [Wiki 知识库](https://wiki.286163668.xyz) — Wiki.js × AI，极致知识管理体验  
+- 自动化工具集 — 脚本与监控，释放双手，提升生产力  
+
+---
+
+<footer align="center" style="color: #bbb; font-size: 0.9rem; margin-top: 3rem;">
+  &copy; 2025 <strong>Tokeisou Samueru</strong> · 慎终如始，无败事
 </footer>
