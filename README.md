@@ -6,9 +6,9 @@
 </h1>
 
 <!-- 个人资料徽标 -->
-<div align="center" style="margin-bottom: 24px;">
+<div align="center" style="margin: 24px 0 36px 0;">
   <a href="https://www.286163668.xyz" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Website-个人博客-blue?style=for-the-badge&logo=apple" alt="个人博客" />
+    <img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-博客-blue?style=for-the-badge&logo=apple" alt="个人博客" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/SamueruTokeisou" target="_blank" rel="noopener">
@@ -32,45 +32,33 @@
 
 ## 关于我
 
-🔭 摄影师 & 市场专员，致力于用镜头捕捉世界之美，也擅长通过数据和创意驱动品牌成长。  
-🌱 热衷于学习新技术，拥抱自动化和数字化转型。  
-💬 欢迎通过社交平台或邮箱联系我，一起探索合作和创新可能。  
+> 🔭 摄影师 & 市场专员，数据与创意交汇，镜头与代码并存。  
+> 🌱 热衷于自动化和数字转型，拥抱未知与极致效率。  
+> 💬 欢迎交流合作，创新共赢。
 
 ---
 
 ## 我的技能
 
-| 前端开发                  | 设计与创意                   | 自动化运维                    |
-|---------------------------|------------------------------|-------------------------------|
-| HTML / CSS / JavaScript   | 摄影后期（Lightroom, Photoshop） | Linux服务器管理 & 脚本编写      |
-| Vue / React               | PPT 制作                     | Docker / 1Panel / FRP 配置    |
-| Markdown / 文档编写       | 视觉策划 & 市场活动          | 持续集成与自动化部署           |
+| 前端开发                 | 设计创意                      | 自动化运维                     |
+|--------------------------|-------------------------------|-------------------------------|
+| HTML / CSS / JavaScript  | 摄影后期（Lightroom / Photoshop）| Linux 服务器管理 & 脚本编写     |
+| Vue / React              | PPT 制作                      | Docker / 1Panel / FRP 配置     |
+| Markdown / 文档编写      | 视觉策划 & 市场活动           | 持续集成与自动化部署           |
 
 ---
 
 ## 重点项目
 
 - [个人博客](https://www.samueru.nyc.mn)  
-  基于 WordPress + Elementor 打造，聚焦技术分享与摄影作品展示。  
+  采用 WordPress + Elementor 打造，兼顾技术分享与视觉艺术。  
 - [Wiki 知识管理](https://wiki.286163668.xyz)  
-  采用 Wiki.js 搭建，集成 AI 助力高效整理与搜索。  
-- 自动化部署工具集合  
-  包含脚本管理、服务监控、定时任务，提升运维效率与稳定性。  
+  Wiki.js + AI，知识整理与检索的极致体验。  
+- 自动化工具集合  
+  脚本、监控、定时任务，解放双手提升效率。
 
 ---
 
-## 联系我
-
-| 平台      | 链接                                |
-|-----------|-----------------------------------|
-| 个人博客  | [samueru.nyc.mn](https://www.samueru.nyc.mn) |
-| X (Twitter) | [x.com/SamueruTokeisou](https://x.com/SamueruTokeisou)  |
-| Telegram  | [t.me/samuerutokeisou](https://t.me/samuerutokeisou)  |
-| GitHub    | [github.com/SamueruTokeisou](https://github.com/SamueruTokeisou) |
-| 邮箱      | samuerutokeisou@outlook.com       |
-
----
-
-<footer align="center">
-  <sub>© 2025 Tokeisou Samueru · 慎终如始，无败事</sub>
+<footer align="center" style="margin-top: 36px; font-size: 0.9rem; color: #666;">
+  © 2025 <strong>Tokeisou Samueru</strong> · 慎终如始，无败事
 </footer>
