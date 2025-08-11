@@ -1,15 +1,76 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://www.samueru.nyc.mn">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=慎终如始，则无败事.;console.log(%22Hello%EF%BC%8Cworld%22)">
+  <a href="https://www.samueru.nyc.mn" target="_blank" rel="noopener">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=慎终如始，则无败事.;console.log(%22Hello%EF%BC%8Cworld%22)" alt="动态打字效果" />
   </a>
 </h1>
 
 <!-- 个人资料徽标 -->
-<div align="center">
-  <a href="https://www.286163668.xyz"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
-  <a href="https://x.com/SamueruTokeisou"><img src="https://img.shields.io/badge/X-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
-  <a href="https://t.me/samuerutokeisou"><img src="https://img.shields.io/badge/Telegram-%E7%94%B5%E6%8A%A5-blue"></a>&emsp;
-  <a href="https://github.com/SamueruTokeisou"><img src="https://img.shields.io/badge/github-%E5%89%8D%E7%AB%AF-c32136"></a>&emsp;
-  <a href="mailto:samuerutokeisou@outlook.com"><img src="https://img.shields.io/badge/Email-%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6-c32136"></a>&emsp;
+<div align="center" style="margin-bottom: 24px;">
+  <a href="https://www.286163668.xyz" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Website-个人博客-blue?style=for-the-badge&logo=apple" alt="个人博客" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/SamueruTokeisou" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/X-推特-1DA1F2?style=for-the-badge&logo=twitter" alt="X 推特" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/samuerutokeisou" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Telegram-电报-0088CC?style=for-the-badge&logo=telegram" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/SamueruTokeisou" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-前端-c32136?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:samuerutokeisou@outlook.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Email-电子邮件-c32136?style=for-the-badge&logo=microsoft-outlook" alt="Email" />
+  </a>
 </div>
+
+---
+
+## 关于我
+
+🔭 摄影师 & 市场专员，致力于用镜头捕捉世界之美，也擅长通过数据和创意驱动品牌成长。  
+🌱 热衷于学习新技术，拥抱自动化和数字化转型。  
+💬 欢迎通过社交平台或邮箱联系我，一起探索合作和创新可能。  
+
+---
+
+## 我的技能
+
+| 前端开发                  | 设计与创意                   | 自动化运维                    |
+|---------------------------|------------------------------|-------------------------------|
+| HTML / CSS / JavaScript   | 摄影后期（Lightroom, Photoshop） | Linux服务器管理 & 脚本编写      |
+| Vue / React               | PPT 制作                     | Docker / 1Panel / FRP 配置    |
+| Markdown / 文档编写       | 视觉策划 & 市场活动          | 持续集成与自动化部署           |
+
+---
+
+## 重点项目
+
+- [个人博客](https://www.samueru.nyc.mn)  
+  基于 WordPress + Elementor 打造，聚焦技术分享与摄影作品展示。  
+- [Wiki 知识管理](https://wiki.286163668.xyz)  
+  采用 Wiki.js 搭建，集成 AI 助力高效整理与搜索。  
+- 自动化部署工具集合  
+  包含脚本管理、服务监控、定时任务，提升运维效率与稳定性。  
+
+---
+
+## 联系我
+
+| 平台      | 链接                                |
+|-----------|-----------------------------------|
+| 个人博客  | [samueru.nyc.mn](https://www.samueru.nyc.mn) |
+| X (Twitter) | [x.com/SamueruTokeisou](https://x.com/SamueruTokeisou)  |
+| Telegram  | [t.me/samuerutokeisou](https://t.me/samuerutokeisou)  |
+| GitHub    | [github.com/SamueruTokeisou](https://github.com/SamueruTokeisou) |
+| 邮箱      | samuerutokeisou@outlook.com       |
+
+---
+
+<footer align="center">
+  <sub>© 2025 Tokeisou Samueru · 慎终如始，无败事</sub>
+</footer>
