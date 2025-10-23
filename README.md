@@ -8,11 +8,11 @@
 
 <div align="center" style="margin-bottom: 24px;">
   <a href="https://memos.286163668.xyz" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Memos-Blog-00DDEB?style=flat-square&logo=notion" alt="Memos Blog" />
+    <img src="https://img.shields.io/badge/Memos-Notes-00DDEB?style=flat-square&logo=notion" alt="Memos Notes" />
   </a>
   &nbsp;
   <a href="https://www.samueru.nyc.mn" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Typecho-Site-1E90FF?style=flat-square&logo=wordpress" alt="Typecho Site" />
+    <img src="https://img.shields.io/badge/Typecho-Blog-1E90FF?style=flat-square&logo=globe" alt="Typecho Blog" />
   </a>
   &nbsp;
   <a href="https://x.com/SamueruTokeisou" target="_blank" rel="noopener">
@@ -51,9 +51,9 @@
 
 ## 🌟 Stellar Projects
 
-- **[Typecho Site](https://www.samueru.nyc.mn)**  
+- **[Typecho Blog](https://www.samueru.nyc.mn)**  
   A minimalist CMS powered by Typecho on a Serv00 VPS, optimized with Cloudflare for speed and security.  
-- **[Memos Blog](https://memos.286163668.xyz)**  
+- **[Memos Notes](https://memos.286163668.xyz)**  
   Lightweight note-taking platform for tech insights and photography snippets, hosted via Cloudflare.  
 - **[serv00-System-Reset-Script](https://github.com/SamueruTokeisou/serv00-System-Reset-Script)**  
   Automation script for resetting Serv00 environments, streamlining VPS management.  
