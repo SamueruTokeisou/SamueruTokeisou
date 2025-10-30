@@ -8,7 +8,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/你的账号)
 [![Blog](https://img.shields.io/badge/博客-FF6B6B?style=for-the-badge&logo=rss&logoColor=white)](https://www.samueru.nyc.mn)
 
-<img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=SamueruTokeisou&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
