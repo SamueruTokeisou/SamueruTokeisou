@@ -2,10 +2,8 @@
 
 # 🌌 Tokeisou Samueru
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=摄影师+%7C+代码爱好者;VPS+探索者+%7C+开源贡献者;用镜头捕捉瞬间;用代码构建世界" alt="Typing SVG" />
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/你的账号)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/你的账号)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SamueruTokeisou)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tokeisou)
 [![Blog](https://img.shields.io/badge/博客-FF6B6B?style=for-the-badge&logo=rss&logoColor=white)](https://www.samueru.nyc.mn)
 
 <img src="https://komarev.com/ghpvc/?username=SamueruTokeisou&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -15,13 +13,6 @@
 ---
 
 ## 💫 关于我
-
-```yaml
-identity: 摄影师 | VPS 探索者
-focus: 人像摄影 · 轻量服务部署
-tools: Typecho · Memos · Wiki.js
-motto: 镜头记录光影，代码构建未来
-```
 
 📸 **擅长人像摄影**，用镜头捕捉情感与故事  
 🔧 **专注 VPS 探索**，享受轻量架构的优雅  
@@ -58,14 +49,14 @@ motto: 镜头记录光影，代码构建未来
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamueruTokeisou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamueruTokeisou&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=你的GitHub用户名&theme=tokyonight&hide_border=true&background=0D1117&border=6366F1&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SamueruTokeisou&theme=tokyonight&hide_border=true&background=0D1117&border=6366F1&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakNum=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
 
 </div>
 
@@ -126,7 +117,7 @@ Wiki.js 驱动
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding"/>
 
 </div>
 
@@ -144,6 +135,6 @@ Wiki.js 驱动
 
 **© 2025 Tokeisou Samueru** · 在光影与代码之间徜徉
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square)](https://github.com/你的GitHub用户名)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square)](https://github.com/SamueruTokeisou)
 
 </div>
