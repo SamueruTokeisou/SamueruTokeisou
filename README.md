@@ -4,7 +4,7 @@
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SamueruTokeisou)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tokeisou)
-[![Blog](https://img.shields.io/badge/博客-FF6B6B?style=for-the-badge&logo=rss&logoColor=white)](https://www.samueru.nyc.mn)
+[![Blog](https://img.shields.io/badge/博客-FF6B6B?style=for-the-badge&logo=rss&logoColor=white)](https://www.286163668.xyz)
 
 <img src="https://komarev.com/ghpvc/?username=SamueruTokeisou&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
@@ -16,7 +16,7 @@
 
 📸 **擅长人像摄影**，用镜头捕捉情感与故事  
 🔧 **专注 VPS 探索**，轻量架构  
-✨ **偏好简约网站**，Typecho / Memos / Wiki.js   
+✨ **偏好简约网站**，Ghost / Memos / Wiki.js   
 💬 **乐于分享交流**，欢迎在 X 或 Telegram 聊技术与创作
 
 ---
@@ -70,7 +70,7 @@
 
 ### 📝 [Ghost 博客](https://www.286163668.xyz)
 ```
-轻量级内容管理系统
+专注于内容创作、简洁高效开源博客与内容发布平台
 VPS 部署
 Cloudflare 全球加速
 ```
