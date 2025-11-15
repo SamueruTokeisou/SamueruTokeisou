@@ -68,10 +68,10 @@
 <tr>
 <td width="50%">
 
-### 📝 [Typecho 博客](https://www.samueru.nyc.mn)
+### 📝 [Ghost 博客](https://www.286163668.xyz)
 ```
 轻量级内容管理系统
-Serv00 VPS 部署
+VPS 部署
 Cloudflare 全球加速
 ```
 
