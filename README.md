@@ -4,7 +4,7 @@
 
 **记录瞬间 · 创造体验 · 分享故事**
 
-[X](https://x.com/SamueruTokeisou) • [Telegram](https://t.me/Tokeisou) • [博客](https://www.286163668.xyz)
+[X](https://x.com/TokeisouSamueru) • [Telegram](https://t.me/Tokeisou) • [博客](https://www.286163668.xyz)
 
 </div>
 
