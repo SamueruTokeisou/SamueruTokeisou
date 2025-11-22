@@ -1,123 +1,67 @@
 <div align="center">
 
-# 🌌 Tokeisou Samueru
+# Tokeisou Samueru
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SamueruTokeisou)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tokeisou)
-[![Blog](https://img.shields.io/badge/博客-FF6B6B?style=for-the-badge&logo=rss&logoColor=white)](https://www.286163668.xyz)
+**记录瞬间 · 创造体验 · 分享故事**
 
-<img src="https://komarev.com/ghpvc/?username=SamueruTokeisou&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+[X](https://x.com/SamueruTokeisou) • [Telegram](https://t.me/Tokeisou) • [博客](https://www.286163668.xyz)
 
 </div>
 
 ---
 
-## 💫 关于我
+## 关于我
 
-📸 **擅长人像摄影**，用镜头捕捉情感与故事  
-🔧 **专注 VPS 探索**，轻量架构  
-✨ **偏好简约网站**，Ghost / Memos / Wiki.js   
-💬 **乐于分享交流**，欢迎在 X 或 Telegram 聊技术与创作
+我曾是摄影师，用镜头捕捉光影与情感。  
+后来成为市场策划，用创意连接品牌与人心。
+
+现在，我在技术与创作之间探索，相信最好的作品源于对细节的关注。
+
+**专注领域**  
+人像摄影 • 内容创作 • VPS 架构 • 简约设计
 
 ---
 
-## 🛠️ 技术栈
-
-<div align="center">
-
-### 前端
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### 运维
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 工具箱
 
 ### 创作
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![DaVinci](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+Lightroom • Photoshop • DaVinci Resolve • Premiere Pro
 
-</div>
+### 开发
+HTML • CSS • Markdown
 
----
-
-## 📊 GitHub 统计
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamueruTokeisou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamueruTokeisou&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SamueruTokeisou&theme=tokyonight&hide_border=true&background=0D1117&border=6366F1&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakNum=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
-
-</div>
+### 运维
+Linux • FreeBSD • Docker
 
 ---
 
-## 🎯 我的站点
+## 我的项目
 
-<table>
-<tr>
-<td width="50%">
+### [博客](https://www.286163668.xyz)
+基于 Ghost 构建的内容创作平台  
+专注于摄影心得、生活分享与技术探索
 
-### 📝 [Ghost 博客](https://www.286163668.xyz)
-```
-专注于内容创作、简洁高效开源博客与内容发布平台
-VPS 部署
-Cloudflare 全球加速
-```
+### [Memos](https://memos.286163668.xyz)
+轻量级笔记系统  
+记录日常灵感与技术碎片
 
-</td>
-<td width="50%">
+### [Wiki](https://wiki.286163668.xyz)
+个人知识库  
+系统化沉淀与整理
 
-### 📌 [Memos 笔记](https://memos.286163668.xyz)
-```
-极简笔记平台
-技术碎片记录
-摄影灵感收集
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📚 [Wiki 知识库](https://wiki.286163668.xyz)
-```
-Wiki.js 驱动
-系统化知识管理
-技术文档沉淀
-```
-
-</td>
-<td width="50%">
-
-### 🔄 [Serv00 重置脚本](https://github.com/SamueruTokeisou/serv00-System-Reset-Script)
-```
-自动化运维工具
-一键环境重置
-简化 VPS 管理
-```
-
-</td>
-</tr>
-</table>
+### [Serv00 重置脚本](https://github.com/SamueruTokeisou/serv00-System-Reset-Script)
+自动化运维工具  
+简化 VPS 环境管理
 
 ---
 
-## 🎨 创作展示
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding"/>
+## GitHub 动态
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SamueruTokeisou&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=666666&icon_color=000000"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamueruTokeisou&layout=compact&langs_count=6&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=666666"/>
 
 </div>
 
@@ -125,16 +69,13 @@ Wiki.js 驱动
 
 <div align="center">
 
-### 💭 一句话
+*"最好的相机，是你随身携带的那一台。  
+最好的时刻，就是你正在经历的此刻。"*
 
-*"用镜头定格永恒，用代码创造可能"*
+<br>
 
----
+**© 2025 Tokeisou Samueru**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-**© 2025 Tokeisou Samueru** · 在光影与代码之间徜徉
-
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square)](https://github.com/SamueruTokeisou)
+在光影与代码之间徜徉
 
 </div>
