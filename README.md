@@ -1,81 +1,53 @@
 <div align="center">
 
-# Tokeisou Samueru
+# Hi, I'm Tokeisou Samueru! 👋
 
 **记录瞬间 · 创造体验 · 分享故事**
 
-[X](https://x.com/TokeisouSamueru) • [Telegram](https://t.me/Tokeisou) • [博客](https://www.286163668.xyz)
+[<img src="https://img.shields.io/badge/Blog-286163668.xyz-blue?style=flat-square&logo=ghost">](https://www.286163668.xyz/)
+[<img src="https://img.shields.io/badge/X-%40TokeisouSamueru-black?style=flat-square&logo=x">](https://x.com/TokeisouSamueru)
+[<img src="https://img.shields.io/badge/Telegram-Tokeisou-blue?style=flat-square&logo=telegram">](https://t.me/Tokeisou)
 
 </div>
 
 ---
 
-## 关于我
-
-我曾是摄影师，用镜头捕捉光影与情感。  
-后来成为市场策划，用创意连接品牌与人心。
-
-现在，我在技术与创作之间探索，相信最好的作品源于对细节的关注。
-
-**专注领域**  
-人像摄影 • 内容创作 • VPS 架构 • 简约设计
+### 💡 关于我
+* 曾任摄影师与市场策划，现于**技术与创作**的交汇处探索。
+* 专注领域：人像摄影 • 内容创作 • VPS 架构 • 简约设计。
+* 相信出色的作品源于对细节的极致关注。
 
 ---
 
-## 工具箱
+### 🛠️ 常用工具与技术
 
-### 创作
-Lightroom • Photoshop • DaVinci Resolve • Premiere Pro
+#### 创作 & 设计
+<p>
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=flat-square&logo=davinciresolve&logoColor=white">
+</p>
 
-### 开发
-HTML • CSS • Markdown
-
-### 运维
-Linux • FreeBSD • Docker
+#### 开发 & 运维
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</p>
 
 ---
 
-## 我的项目
+### 🚀 精选项目
 
-### [博客](https://www.286163668.xyz)
-基于 Ghost 构建的内容创作平台  
-专注于摄影心得、生活分享与技术探索
-
-### [Memos](https://memos.286163668.xyz)
-轻量级笔记系统  
-记录日常灵感与技术碎片
-
-### [Wiki](https://wiki.286163668.xyz)
-个人知识库  
-系统化沉淀与整理
-
-### [Serv00 重置脚本](https://github.com/SamueruTokeisou/serv00-System-Reset-Script)
-自动化运维工具  
-简化 VPS 环境管理
+* **[博客](https://www.286163668.xyz/)**：基于 Ghost 构建，分享摄影心得、生活与技术探索[cite: 1]。
+* **[Memos](https://memos.286163668.xyz/)**：轻量级笔记系统，记录日常灵感与技术碎片[cite: 1]。
+* **[Wiki](https://wiki.286163668.xyz/)**：个人知识库，系统化沉淀与整理[cite: 1]。
+* **[Serv00 重置脚本](https://github.com/SamueruTokeisou/serv00-System-Reset-Script)**：轻量高效的 VPS 系统重置与运维工具[cite: 1]。
 
 ---
 
 <div align="center">
-
-## GitHub 动态
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SamueruTokeisou&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=666666&icon_color=000000"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamueruTokeisou&layout=compact&langs_count=6&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=666666"/>
-
-</div>
-
----
-
-<div align="center">
-
-*"最好的相机，是你随身携带的那一台。  
-最好的时刻，就是你正在经历的此刻。"*
-
-<br>
-
-**© 2025 Tokeisou Samueru**
-
-在光影与代码之间徜徉
-
+  <em>"最好的相机，是你随身携带的那一台。"</em>
 </div>
