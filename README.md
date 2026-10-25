@@ -43,7 +43,6 @@
 
 * **[博客](https://www.286163668.xyz/)**：基于 Ghost 构建，分享摄影心得、生活与技术探索[cite: 1]。
 * **[Memos](https://memos.286163668.xyz/)**：轻量级笔记系统，记录日常灵感与技术碎片[cite: 1]。
-* **[Wiki](https://wiki.286163668.xyz/)**：个人知识库，系统化沉淀与整理[cite: 1]。
 * **[Serv00 重置脚本](https://github.com/SamueruTokeisou/serv00-System-Reset-Script)**：轻量高效的 VPS 系统重置与运维工具[cite: 1]。
 
 ---
