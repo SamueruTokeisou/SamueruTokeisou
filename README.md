@@ -5,7 +5,7 @@
 **记录瞬间 · 创造体验 · 分享故事**
 
 [<img src="https://img.shields.io/badge/Blog-286163668.xyz-blue?style=flat-square&logo=ghost">](https://www.286163668.xyz/)
-[<img src="https://img.shields.io/badge/X-%40TokeisouSamueru-black?style=flat-square&logo=x">](https://x.com/TokeisouSamueru)
+[<img src="https://img.shields.io/badge/X-%40TokeisouSamueru-black?style=flat-square&logo=x">](https://x.com/Vana9201)
 [<img src="https://img.shields.io/badge/Telegram-Tokeisou-blue?style=flat-square&logo=telegram">](https://t.me/Tokeisou)
 
 </div>
